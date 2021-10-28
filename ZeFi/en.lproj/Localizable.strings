@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  ZeFi
+
+  Created by Admin on 12/10/20.
+  
+*/
+
+app_name = "Ze.Fi";
+please_choose_language = "من فضلك إختر لغة البرنامج";
+please_choose_language2 = "Please choose your preferred language";
+arabic = "اللغة العربية";
+english = "English";
+welecome = "Welcome";
+in_ze_fi = "to the our version of Ze.Fi - an application as well as the academy.";
+text1 = "Fasten your seat belts, and prepare to embark on a unique Crypt-ourney with us.";
+text2 = "Ze.Fi GmbH is being registered as an education and media marketing company in Berlin, Germany. Ze.Fi has a team of over 30 blockchain and cryptocurrency enthusiasts, researchers, editors, translators, traders and developers united by the vision to educate, share and cultivate learning experiences.";
+text3 = "Ze.Fi strives for the cryptocurrency market to reach its potential and to become a gateway platform for organizations and prospective investors eager to learn more about how crypto-related projects work and what tools and instruments are tokenized by a digitalized economy.";
+home = "Home";
+all = "All";
+academy = "ZeAcademy";
+notification = "Notifications";
+settings = "Settings";
+how_are = "Who we are";
+news = "News";
+dictionary = "Zectionary";
+media = "Media";
+zefi_team = "ZeFi Team";
+connect_us = "Contact Us";
+navigation_drawer_open = "Open navigation drawer";
+navigation_drawer_close = "Close navigation drawer";
+partners = "Partners";
+follow_us_on_social_network = "Follow us on social newtwork";
+back = "back";
+text4 = "Looking for quick answers to your questions? Or do you have any other queries? Our team is just a click away. We would to hear from you!";
+name = "Name";
+enter_your_name = "Enter your name";
+phone = "Phone";
+enter_your_number = "Enter your number";
+subject = "Subject";
+enter_subject = "Enter Subject";
+message = "Message";
+enter_your_message = "Enter your message";
+send = "Send";
+default_coin = "Default Coin";
+USD = "USD";
+btc = "Bitcoin";
+eth = "Ethereum";
+dot = "Polkadot";
+bnb = "Binance Coin";
+link = "Chainlink";
+sar = "Saudi Riyal";
+aed = "UAE Dirham";
+bhd = "Baharain Dinar";
+kwd = "Kuwaiti Dinar";
+eur = "EURO";
+language = "Language";
+enable = "Enable";
+privacy = "Privacy Policy";
+tearms_of_use = "Terms and conditions";
+moat_questios = "Most common questions";
+rating_app = "Rating App";
+search = "Search";
+enter_text = "Enter text";
+sorry = "Sorry";
+no_data_found = "No Data Found";
+more = "More";
+ze_cafe = "ZeCafe";
+discussions = "Discussions and dialogues";
+hello_blank_fragment = "Hello blank fragment";
+noInternet = "No Internet";
+set_language = "Set Language";
+set_default_coin = "set default coin";
+enter_your_email = "Enter your email";
+email = "Email";
+message_sent_successful = "Message sent succefull";
+website_link = "Website Link";
+success_partners = "Partners";
+our_teams = "Our Teams";
+coin_price = "Coin Price";
+coin_detail = "Coin Detail";
+price = "Price";
+change_over_24 = "Change 24H";
+market_cap = "Market Cap";
+traging24h = "Trading 24h";
+beginner = "Beginner";
+new_trader = "New trader";
+average = "Intermediate";
+developer = "Crypto Enthusiasts";
+advanced = "Advanced";
+organizations = "Day-traders";
+choose_level = "Choose Level";
+choose_category = "Choose Category";
+search_result = "Search Result";
+we_found = "We Found";
+result = "Result";
+ok = "OK";
+cancel = "Cancel";
+done = "Done";
+error = "Error";
+
+

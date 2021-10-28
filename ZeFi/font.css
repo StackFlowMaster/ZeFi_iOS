@@ -1,0 +1,33 @@
+@font-face
+{
+    font-family: 'DIN Next LT W23';
+    font-weight: normal;
+    src: url(DINNextLTW23-Regular.ttf);
+}
+@font-face
+{
+    font-family: 'DIN Next LT W23';
+    font-weight: bold;
+    src: url(DINNextLTW23-Bold.ttf);
+}
+@font-face
+{
+    font-family: 'DIN Next LT W23';
+    font-weight: 900;
+    src: url(DINNextLTW23-Heavy.ttf);
+}
+
+@font-face
+{
+    font-family: 'DIN Next LT W23';
+    font-weight: 500;
+    src: url(DINNextLTW23-Medium.ttf);
+}
+
+* {
+    font-size: 50px;
+    font-family:'DIN Next LT W23';
+    overflow-x: hidden;
+    
+/*    width: 100%;*/
+}
